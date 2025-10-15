@@ -160,12 +160,15 @@ footer {
 
 /* Formulário*/
 
-#formulario {
+.formula {
    text-align: center;
    justify-items: center;
    background-color: #EDF7FA;
-   padding: 2%;
-   
+   padding: 1%;
+   width: 500px;
+   height: 150px;
+   border-radius: 8px;
+   margin-left: 37%;
 }
 
 #botoom{
