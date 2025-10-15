@@ -158,6 +158,32 @@ footer {
    transform: scale(1.2);
 }
 
+/* Formulário*/
+
+#formulario {
+   text-align: center;
+   justify-items: center;
+   background-color: #EDF7FA;
+   padding: 2%;
+   
+}
+
+#botoom{
+   color: white;
+   background-color: #8695A4;
+   border: #8695A4;
+   border-radius: 3px;
+   padding: 8%;
+}
+
+#botoom:hover{
+   color: white;
+   background-color: #5c6874;
+   border: #8695A4;
+   border-radius: 3px;
+   padding: 8%;
+}
+
 /* RESPONSIVIDADE */
 @media (max-width: 768px) {
    #header {
